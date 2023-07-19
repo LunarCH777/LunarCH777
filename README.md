@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LunarCH777
 - 👀 I’m interested in Euro Truck Simulator 2
 - 🌱 I’m currently learning Node.JS
-- 💞️ I’m looking to collaborate on League of Legends
 - 📫 How to reach me ...
 
 <!---
